@@ -4,10 +4,11 @@ public class Employee {
     String empName,empld;
 
 
-    String getEmpName(){
+    String getEmpName() {
         return empName;
     }
     public String getEmpld(){
+
         return empld;
     }
     Employee(String empName,String empld){
